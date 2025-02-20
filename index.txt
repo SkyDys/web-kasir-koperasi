@@ -1,3 +1,5 @@
 Kasir adalah seorang petugas yang bertugas untuk menangani transaksi pembayaran di toko atau minimarket, seperti Alfamart. Tugas utama seorang kasir meliputi menerima pembayaran dari pelanggan, baik berupa uang tunai, kartu kredit, atau pembayaran digital, serta memberikan kembalian jika diperlukan. 
 
 Selain itu, kasir juga bertanggung jawab untuk memindai barang yang dibeli menggunakan mesin kasir, memastikan harga yang tercatat sesuai, dan menyusun barang belanjaan pelanggan dengan rapi. 
+
+Kasir harus memastikan transaksi berjalan lancar, memberikan bukti pembayaran kepada pelanggan, serta menjaga ketelitian dan keamanan dalam setiap transaksi yang dilakukan. 
